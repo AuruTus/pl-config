@@ -20,7 +20,7 @@ BraceWrapping:
   AfterEnum: false
 UseTab: Never
 NamespaceIndentation: None
-ReflowComments: true
+ReflowComments: IndentOnly
 
 
 # =================================
